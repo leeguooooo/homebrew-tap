@@ -1,6 +1,6 @@
 cask "thermo" do
-  version "1.5.54"
-  sha256 "0ddb0a2c524b227eca3ad932c72b86120bcf45d7a1ba7bf0e4cbf2855851101f"
+  version "1.5.55"
+  sha256 "1f7c71aa9c8098eea137aee075a6371e067f9052f9654ff4e3f4949c1320aad7"
 
   url "https://app.leeguoo.com/thermo/Thermo-#{version}.dmg"
   name "Thermo"
